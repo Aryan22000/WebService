@@ -1,0 +1,26 @@
+Dear Tommi Lahti,
+
+	I am writing to update you on our progress with Robot 82 project. 
+In our group, we have assigned different responsibilities to our members for efficient progress. 
+
+	Aryan Mohammadi has written the code to handle obstacles. 
+When the robot encounters the first obstacle, it avoids it and continues following the black line. 
+When it reaches the second obstacle, the robot moves back a little, plays music, and rotates around itself.
+
+	Veronika Jedrna has written the code to make the robot follow the black line using the GetRedMode. 
+This ensures that the robot stays on track and does not deviate from the black line.
+
+Finally, Mohammadreza Dejamfard has developed the DataExchange code, which allows different classes to communicate with each other seamlessly.
+
+We hope that our progress so far is satisfactory and that we can achieve our goals on time. 
+
+list of our methods :
+stomM = it stop the motors ,
+rotateM = The robot rotates slightly to the right in its place for 1.5 seconds,
+rotateMo = The robot rotates slightly to the right in its place for 0.8 seconds,
+runM = The robot move forward in its place for 6 seconds,
+ending = The ending of the robot when it see the obstacle , It rotate for 4 seconds,
+ScStop = Stop the robot for 10 seconds,
+Back = The robot go back in its place for 1 second,
+Best regards,
+"team16"
